@@ -1,0 +1,2 @@
+Welcome to the official GitHub account of Aubrey Reisler-Morris.
+Most of my projects are developed for Unix/Linux systems, as they are most of the time written in bash. Also, note that all of my projects will be free and open source, as that's how I think all software should be developed. You may feel free to contact me @ Aubrey.Reisler.4334@gmail.com for help with a program, to file a bug report, or to request features for a program.
